@@ -1,0 +1,11 @@
+Um Zero Day é uma vulnerabilidade que ainda não foi catalogada, logo não existe ainda meios para detecção ou prevenção dessa vulnerabilidade para atacantes, sendo o tipo de vulnerabilidade mais perigoso. O nome vem em referência a ser um costume o código da vulnerabilidade fazer menção de quando ela foi descoberta, mas no caso dos Zero Days como eles foram descobertos a 0 dias, ou seja, não foram descobertos, foi atribuido esse nome.
+
+Zero Days podem ser descobertos por profissionais de cybersegurança durante pesquisas e testes em softwares ou por cyber criminosos, o que acaba sendo o cenário mais comum e o mais catastrófico. Um atacante em posse de um Zero Day tem a arma mais poderosa do Cyber Ataque em mãos porque com um **Zero Day** tem o poder de invadir um sistema de forma que não haverá defesas para isso.
+
+### Exploração
+Quando um atacante deseja atacar usando um **Zero Day** as escolhas geralmente envolvem ataques com campanhas rápidas e altamente destrutivas, porque a partir do momento que os ataques começarem será questão de tempo até que as equipes de segurança de todo mundo interajam entre si e fornecam patches ou formas de mitigar o abuso da vulnerabilidade, detectar e impedir a exploração então o atacante busca usar essa vantagem a seu favor. 
+
+O ataque geralmente vai envolver grandes fontes de lucro, como ataques a bancos, de forma a fazer um grande impacto e já obter uma boa recompensa ou ataques em uma gigantesca escala de forma a comprometer milhares ou milhões de usuários e empresas, como criando [[Worms]] poderosos, como foi o caso do WannaCry. Nesses casos como vai envolver pequenas empresas e muitos usuários leigos por mais que as correções sejam disponibilizadas até que todos tomem as precauções os impactos serão enormes.
+
+### Distribuição
+Cyber Criminosos quando descobrem um **Zero Day** podem decidir usar isso pra eles mesmos atacarem ou em muitos casos vender a informação sobre essas **Zero Days** ou os [[Exploit]]s diretamente para outros Cyber Criminosos que aí sim vão usar isso para atacar. Existem mercados inteiros na Dark Web com foco em pesquisa sobre vulnerbilidades e construção de Exploits para venda, movimentando quantias astronômicas

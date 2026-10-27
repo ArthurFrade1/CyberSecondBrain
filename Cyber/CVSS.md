@@ -1,0 +1,3 @@
+Sigla para *Commom Vulnerability Scoring System*. Mantido pelo [[FIRST]] e usado para se calcular uma nota de 0 a 10 a partir de métricas como vetor de ataque(rede, local), complexidade, privilégios necessários, se exitge interação com o usuário e impacto em conifdencialidade, integridade e disponibilidade. Também gera uma string de vetor qeu mostra como a nota foi calculada.
+
+Mede a gravidade em abstrato, da vulnerabilidade em geral. Não vai levar em contas fatores do ambiente como de a máquina com vulnerabilidade ser um servidor de produção ou uma máquina de um empregado. 
