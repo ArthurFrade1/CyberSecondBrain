@@ -1,0 +1,1 @@
+Mecanismo legítimo do Windows que permite a um programa pedir autorização para ordar ações com privilégios mais altos

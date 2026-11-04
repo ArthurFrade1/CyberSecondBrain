@@ -1,0 +1,3 @@
+Um dos principais objetivos de [[Stealers]] é roubar informações de navegadores, como cookies e senhas, que ficavam em text plain nos arquivos. Para impedir isso o [[Chrome]] criou o App-Bound Encryption, tecnologia com foco em impedir com que isso acontecesse.
+
+A idéia é permitir que somente o processo do navegador acesse os arquivos de cookies e senhas, cifrando esses arquivos com o sistema operacional e fazendo com que o sistema operacional descriptografe esses arquivos somente quando o executável do chrome tenha a permissão do sistema operacional pra ver esses arquivos descriptografados.

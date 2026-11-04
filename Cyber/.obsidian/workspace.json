@@ -8,87 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "488df51927eb0fe6",
+            "id": "0b819fd26743e3d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CVE.md",
+                "file": "Silab RAT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CVE"
+              "title": "Silab RAT"
             }
           },
           {
-            "id": "573d597b15117256",
+            "id": "215dbe09b0d73907",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploit.md",
+                "file": "CrushFTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exploit"
-            }
-          },
-          {
-            "id": "7c4bf2d6fda66315",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dirty COW (CVE-2016-5195).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dirty COW (CVE-2016-5195)"
-            }
-          },
-          {
-            "id": "585e70b9f0187dae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EPSS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EPSS"
-            }
-          },
-          {
-            "id": "f2b717211460bc5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brute Force.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Brute Force"
-            }
-          },
-          {
-            "id": "b2465e1ab97d50fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FIRST.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FIRST"
+              "title": "CrushFTP"
             }
           }
         ],
@@ -259,30 +203,34 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "573d597b15117256",
+  "active": "215dbe09b0d73907",
   "lastOpenFiles": [
-    "Dirty COW (CVE-2016-5195).md",
-    "CWE.md",
+    "COM Elevation.md",
+    "CrushFTP.md",
+    "Clonar Perfil do Navegador.md",
+    "Chrome.md",
+    "Brute Force.md",
+    "2026-11-04.md",
     "CVE-2026-21589.md",
     "Atlassian.md",
-    "Brute Force.md",
-    "CVE.md",
-    "CVSS.md",
-    "Engenharia Social.md",
-    "Exploit.md",
+    "Silab RAT.md",
+    "Sem título.canvas",
+    "RMM.md",
+    "Dirty COW (CVE-2016-5195).md",
     "EPSS.md",
-    "Exploração de Vulnerabilidade.md",
-    "Vulnerabilidade.md",
-    "Pesquisadores de Cybersegurança.md",
     "FIRST.md",
-    "Path Traversal.md",
-    "Zero Day.md",
-    "Worms.md",
-    "MITRE.md",
-    "Initial Access.md",
+    "HVNC.md",
+    "VNC.md",
+    "App-Bound Encryption.md",
+    "Stealers.md",
     "Grupos de Cibercrime.md",
-    "WannaCry.md",
-    "RCE.md",
-    "crie um link.md"
+    "Pesquisadores de Cybersegurança.md",
+    "Zero Day.md",
+    "CVSS.md",
+    "CVE.md",
+    "Exploit.md",
+    "Initial Access.md",
+    "Vulnerabilidade.md",
+    "MITRE.md"
   ]
 }
