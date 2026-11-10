@@ -1,0 +1,1 @@
+Um sitema operacional que funciona encima de outro sistema operacional, o hardware é definido de forma visual, com o sistema operacional base tendo acesso ao hardware direto e um programa chamado [[hypervisor]] controla o uso de hardware por cada um dos sistemas operacionais que ele vai suportar, permitindo assim rodar vários SOs ao mesmo tempo, cada um com recursos limitados.

@@ -1,0 +1,1 @@
+[[Hypervisor]] de tipo 2 da [[VMWare]]
