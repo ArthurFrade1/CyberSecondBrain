@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDAP.md",
+                "file": "App-Bound Encryption.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LDAP"
+              "title": "App-Bound Encryption"
             }
           },
           {
@@ -60,6 +60,20 @@
               },
               "icon": "lucide-file",
               "title": "CrushFTP"
+            }
+          },
+          {
+            "id": "bdca48ae465564b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GitLab.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GitLab"
             }
           },
           {
@@ -203,7 +217,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -370,11 +384,15 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "366e0517ba53ceb1",
+  "active": "bdca48ae465564b5",
   "lastOpenFiles": [
-    "Dirty COW (CVE-2016-5195).md",
-    "LDAP.md",
     "CrushFTP.md",
+    "GitLab.md",
+    "A estudar.md",
+    "App-Bound Encryption.md",
+    "LDAP.md",
+    "Sem título",
+    "Dirty COW (CVE-2016-5195).md",
     "COM Elevation.md",
     "ESXi.md",
     "Sem título.base",
@@ -397,9 +415,6 @@
     "RCE NetScaler Log Poisoning (CVE-2026-88771).md",
     "Atlassian Path Traversal (CVE-2026-21589).md",
     "CVE.md",
-    "CVSS.md",
-    "EPSS.md",
-    "Exploit.md",
-    "CWE.md"
+    "CVSS.md"
   ]
 }
