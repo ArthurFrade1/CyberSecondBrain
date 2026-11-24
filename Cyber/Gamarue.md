@@ -1,0 +1,2 @@
+Familia de Malware reconhecida pela Microsoft, também conhecida como Andromeda (nome do botnet) e Wauchos (nome usado por alguns antivírus). É um bot/downloader qeu infecta máquinas e carrega outros malwares de todos os gêneros.
+Faz ações e persistência e stealer além de também atuar como worm se espalhando principalmente por pendrives

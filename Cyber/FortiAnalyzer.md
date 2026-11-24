@@ -1,0 +1,1 @@
+É um agregador de logs ([[SIEM]]) da [[Fortinet]], responsável por agregar os logs de diversos dispositivos fortinet e disparar alertas caso ocorram regras, 

@@ -1,0 +1,4 @@
+Tecnologia desenvolvida pela [[Google]] em [[Go]] que permite a criação de [[WebSocket]] disfarçada de trafégo HTTP. Tendo o Chisel instalado em ambas as máquinas, uma máquina de uma rede interna pode cotatar uma da rede interna e pedir a abertura de uma conexão websocket, isso por meio de HTTP, burlando uma possível detecção do firewall, então é criado um tunel com informações passadno por meio de SSH.
+
+### Abuso
+Pela natureza da ferramenta é muito usada por atacantes pois dntro da rede interna alvo fazem conexão com o lado de fora, podendo ser um C2 e isso vai passar de forma aparentemente legítima para o Firewall de borda
